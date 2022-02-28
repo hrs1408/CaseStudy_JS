@@ -1,0 +1,8 @@
+* {
+  font-family: 'DINPro-Regular', sans-serif;
+}
+
+.sidebar .nav > li.active > a:before {
+  background-color: red;
+}
+/*# sourceMappingURL=admin.css.map */
